@@ -1,0 +1,6 @@
+{
+  "name": "Білім депозиті - Бағалау платформасы",
+  "description": "Мұғалімдер мен білім беру ұйымдарына арналған сабақтарды, критерийлі бағалауды және білім алушылар журналын басқару платформасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
